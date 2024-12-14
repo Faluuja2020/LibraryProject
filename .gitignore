@@ -1,0 +1,20 @@
+# Ignorera Visual Studio-filer
+.vs/
+*.user
+*.suo
+
+# Ignorera bin- och obj-mappar
+bin/
+obj/
+
+# Ignorera byggda filer
+*.dll
+*.exe
+
+# Ignorera tillfälliga filer
+*.log
+*.tmp
+
+# Ignorera andra systemfiler
+.DS_Store
+Thumbs.db
